@@ -28,5 +28,4 @@ Name: Abubakar Mangrio
 Roll No: 2280101
 
 
-## Submission
-Both assignments are included in one ZIP file for convenience and clarity.
+
